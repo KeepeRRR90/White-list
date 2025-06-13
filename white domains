@@ -80,3 +80,5 @@
 @@||update.intl.miui.com^
 @@||cloudsave.ubisoft.com^
 @@||game-services.ubisoft.com^
+@@||*.scdn.co^$domain=spotify.com
+@@||*.audio-ak-spotify-com.akamaized.net^
