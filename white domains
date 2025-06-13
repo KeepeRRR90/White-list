@@ -87,3 +87,8 @@
 @@||ubi.com^
 @@||*.akamai.net^
 @@||*.edgekey.net^
+@@||yt3.ggpht.com^  ! CDN для аватарок
+@@||*.ggpht.com^$domain=youtube.com
+@@||*.yimg.com^$domain=youtube.com
+@@||*.googleusercontent.com^$domain=youtube.com
+@@||*.ytimg.com^
