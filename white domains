@@ -82,3 +82,8 @@
 @@||game-services.ubisoft.com^
 @@||*.scdn.co^$domain=spotify.com
 @@||*.audio-ak-spotify-com.akamaized.net^
+@@||ubisoft.com^
+@@||uplay.com^
+@@||ubi.com^
+@@||*.akamai.net^
+@@||*.edgekey.net^
