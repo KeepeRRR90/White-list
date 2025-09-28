@@ -91,3 +91,7 @@
 @@||*.ggpht.com^$domain=youtube.com
 @@||*.yimg.com^$domain=youtube.com
 @@||*.googleusercontent.com^$domain=youtube.com
+@@||ru.hlth.io.mi.com^
+@@||account.xiaomi.com^
+@@||api.account.xiaomi.com^
+@@||mi.com^
