@@ -5,7 +5,6 @@
 @@||huawei.com^  
 @@||hwccpc.com^  
 @@||appstore.huawei.com^  
-@@||vmall.com^  
 @@||hicloudcdn.com^  
 @@||hmscore.com^  
 @@||dl.hicloud.com^  
@@ -31,9 +30,6 @@
 @@||login.microsoftonline.com^
 @@||login.windows.net^
 @@||*.apple.com^
-@@||ok.ru^
-@@||twitter.com^
-@@||instagram.com^
 @@||connect.facebook.net^
 @@||messenger.com^
 @@||accounts.google.com^
@@ -70,4 +66,3 @@
 @@||*.googleusercontent.com^$domain=youtube.com
 @@||account.xiaomi.com^
 @@||api.account.xiaomi.com^
-@@||mi.com^
