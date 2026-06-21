@@ -1,29 +1,62 @@
 ############################################################
 # ------------------------ WHITELIST ------------------------
-# Only critical domains — Microsoft, Honor/Huawei, Xiaomi updates
 ############################################################
 
-# Microsoft Essentials — login / authentication / Teams / Office
+# Microsoft authentication
 @@||login.live.com^
+@@||login.microsoft.com^
 @@||login.microsoftonline.com^
+@@||device.login.microsoftonline.com^
 @@||account.activedirectory.windowsazure.com^
 @@||identity.microsoft.com^
 @@||secure.aadcdn.microsoftonline-p.com^
 @@||msftauth.net^
 
+# Microsoft services
 @@||graph.microsoft.com^
 @@||teams.microsoft.com^
 @@||portal.office.com^
+@@||office.com^
+@@||office.net^
+@@||office365.com^
 @@||docs.live.net^
 
-# Honor / Huawei Cloud — OTA, sync, cloud
+# Microsoft Store / Windows Update
+@@||storeedgefd.dsx.mp.microsoft.com^
+@@||displaycatalog.mp.microsoft.com^
+@@||dl.delivery.mp.microsoft.com^
+@@||licensing.mp.microsoft.com^
+@@||activation-v2.sls.microsoft.com^
+@@||windowsupdate.com^
+@@||update.microsoft.com^
+@@||download.windowsupdate.com^
+
+# Honor / Huawei
 @@||hicloud.com^
 @@||update.hicloud.com^
 @@||dl.hicloud.com^
+@@||query.hicloud.com^
+@@||cloud.huawei.com^
+@@||dbankcdn.com^
+@@||dbankcloud.com^
+@@||consumer.huawei.com^
 
-# Optional gaming services — only if used
+# Xiaomi
+@@||update.miui.com^
+@@||bigota.d.miui.com^
+@@||api.io.mi.com^
+@@||account.xiaomi.com^
+@@||id.mi.com^
+
+# Optional gaming services
 # @@||cloudsave.ubisoft.com^
 # @@||game-services.ubisoft.com^
+# @@||steamstatic.com^
+# @@||steamcontent.com^
+# @@||epicgames.com^
+# @@||ol.epicgames.com^
+# @@||battle.net^
+# @@||blzddist1-a.akamaihd.net^
 
 ############################################################
 # End of file
